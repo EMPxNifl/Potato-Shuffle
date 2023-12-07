@@ -1,0 +1,21 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  color: white;
+  background: black;
+}
+canvas {
+  margin: auto;
+  display: block;
+}
+
+h1, p {
+  text-align: center;
+font-family: "dynapuff", casual typeface;
+}
+
+h2, a {
+color: white;
+font-family: "dynapuff", casual typeface; 
+}
